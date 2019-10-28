@@ -1,0 +1,4 @@
+id,image,name,details,points,available
+str,str,str,str,int,boolean
+RW001,123451.jpg,a,a,100,true
+RW002,123452.jpg,b,b,100,true

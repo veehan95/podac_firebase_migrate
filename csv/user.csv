@@ -1,0 +1,5 @@
+id,last_name,first_name,points,claimed
+str,str,str,int,arr,arr
+US001,Teh,Yong Choon,1000,
+US002,Tan,Wei Jian,1000,RW001
+US003,Tan,Vee Han,1000,

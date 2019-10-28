@@ -1,0 +1,5 @@
+coordinate,description,image,rating,user,mark_area,location
+{x|y},str,str,int,str,arr,str
+{1.2345|1.2345},,123451,1,US001,,XXXX
+{1.2345|1.2345},,123452,1,US001,,XXXX
+{1.2345|1.2345},,123453,1,US002,,GG WP
