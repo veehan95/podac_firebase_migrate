@@ -1,5 +1,5 @@
 id,last_name,first_name,username,password,email
 str,str,str,str,str,str
 AG001,Teh,Yong Choon,TehYongChoon,1234,yongchoon@podac2019.com
-AG001,Tan,Wei Jian,TanWeiJian,1234,weijian@podac2019.com
-AG001,Tan,Vee Han,TanVeeHan,LKMJasmine95,veehan@podac2019.com
+AG002,Tan,Wei Jian,TanWeiJian,1234,weijian@podac2019.com
+AG003,Tan,Vee Han,TanVeeHan,1234,veehan@podac2019.com
