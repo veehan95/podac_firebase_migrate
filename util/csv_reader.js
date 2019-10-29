@@ -42,6 +42,7 @@ module.exports = (filename) => {
                   }
                 }
               })
+              console.log(res)
             return res
           }))
       })

@@ -1,5 +1,5 @@
-id,last_name,first_name,points,claimed,username,pw,profilePicture
-str,str,str,int,arr,arr,str,str,str
-US001,Teh,Yong Choon,1000,TehYongChoon,1234,tehyongchoon.jpg
-US002,Tan,Wei Jian,1000,RW001,TanWeiJian,1234,tanweijian.jpg
-US003,Tan,Vee Han,1000,TanVeeHan,1234,tanveehan.jpg
+id,last_name,first_name,points,username,pw,profilePicture,email
+str,str,str,int,str,str,str,str
+US001,Teh,Yong Choon,1000,TehYongChoon,1234,tehyongchoon.jpg,yongchoon@podac2019.com
+US002,Tan,Wei Jian,1000,RW001,TanWeiJian,1234,tanweijian.jpg,weijian@podac2019.com
+US003,Tan,Vee Han,1000,TanVeeHan,1234,tanveehan.jpg,veehan@podac2019.com

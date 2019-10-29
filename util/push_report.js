@@ -32,13 +32,6 @@ module.exports = async (data) => {
   data.map(async val => {
     const id = uuid()
     await db.ref("feedback").child(id).set(val)
-    // image2base64(`./assets/${val.image}.jpg`)
-    //     .then(response => {
-    //       storage.ref("images")
-    //         .child(`${val.image}.jpg`)
-    //         .putString(response, 'base64')
-    //     })
-    //     .cath(e => console.log(e))
     await db.ref("location_detail")
       .child(val.location.replace(/\s/g, '_'))
       .transaction(x => {
