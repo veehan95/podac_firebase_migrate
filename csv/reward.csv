@@ -1,4 +1,6 @@
 id,image,name,details,points,available
 str,str,str,str,int,boolean
-RW001,123451.jpg,a,a,100,true
-RW002,123452.jpg,b,b,100,true
+RW001,dental.jpg,Dental,Free teeth cleaning,100,true
+RW002,medical.jpg,Medical,Fast lane ticket,150,true
+RW003,mcd.jpg,McDonald's,RM5 Voucher,200,true
+RW004,kfc.jpg,KFC,RM10 Voucher,300,true
